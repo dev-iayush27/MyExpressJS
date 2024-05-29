@@ -1,0 +1,16 @@
+{
+  "name": "myexpressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon demoWithMongoDb.js"
+  },
+  "author": "Ayush Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0",
+    "nodemon": "^3.1.1"
+  }
+}
